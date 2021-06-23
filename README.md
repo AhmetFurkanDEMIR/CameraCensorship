@@ -33,7 +33,7 @@
 
 **Train and Test Helper files**
 
-* [TensorFlow 2 Object Detection API](https://github.com/tensorflow/models)
+* TensorFlow 2 Object Detection API [Link1](https://github.com/tensorflow/models), [Link2](https://github.com/AhmetFurkanDEMIR/AI-Talent-Programme-2)
 
 * [File to view test results](/RunModel/TestModel.py)
 
